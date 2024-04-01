@@ -1,0 +1,26 @@
+{
+  "segments": [
+    {
+      "objectID": "37439230-3c37-4c46-a87c-169153dfeb6e",
+      "groupId": "core",
+      "groupLabel": "Azul Platform Core",
+      "version": "october-2023",
+      "title": "Azul Zulu Builds of OpenJDK",
+      "section": "",
+      "url": "https://docs.azul.com/core/",
+      "link": "https://docs.azul.com/core/",
+      "content": "Azul Zulu builds of OpenJDK are open source, TCK-tested and certified builds of OpenJDK. Azul Zulu is available for a wide range of hardware platforms and operating systems. The Azul Zulu Documentation includes release notes, an installation guide, and third-party licenses. Here you can find everything you need to know to successfully install and manage Azul Zulu. Release Notes Third Party Licenses Azul Commercial Compatibility Kit"
+    },
+    {
+      "objectID": "f9207d3e-d16f-4a60-97d6-99a89078f301",
+      "groupId": "optimizer-hub",
+      "groupLabel": "Optimizer Hub",
+      "version": "1.8.1",
+      "title": "Installing Optimizer Hub on AWS Elastic Kubernetes Service",
+      "section": "Setting Up an External Load Balancer",
+      "url": "https://docs.azul.com/optimizer-hub/installation/aws-eks",
+      "link": "https://docs.azul.com/optimizer-hub/installation/aws-eks#setting-up-an-external-load-balancer",
+      "content": "Setting Up an External Load Balancer If you need to connect to Optimizer Hub from outside the Kubernetes cluster, you need to setup up a load balancer in front of the gateway instances: To set up a load balancer, please follow AWS documentation regarding load balancer controller setup."
+    }
+  ]
+}
